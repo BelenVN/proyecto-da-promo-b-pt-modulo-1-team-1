@@ -29,7 +29,7 @@ Las reglas del juego son las habituales:
 [@cgomezza] (https://github.com/cgomezza)
 
 
-
+![logo adalab](adalab-logo.png)
 
 
 
