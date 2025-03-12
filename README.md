@@ -13,7 +13,7 @@
 - [Files](#Files)
 - [Requirements](#Requirements)
 - [Instructions](#Instructions)
-- [Author](#author)
+- [Authors](#author)
 
 ## INTRODUCTION
 
