@@ -41,6 +41,10 @@ If you do not have this librarie, you can install it using *pip install*.
 
 For detailed instructions on how to run and play the game, please refer to the `hangman.ipynb` file.
 
+Note on data entry:
+In some runtime environments, it may happen that the program does not register user input on certain occasions, requiring pressing Enter a second time for the entered letter to be processed correctly.
+This is a visual problem with the environment and does not affect the logic or operation of the code. If you experience this behavior, simply press Enter again without re-entering the letter.
+
 
 ## Authors
 This project is developed by female authors:
