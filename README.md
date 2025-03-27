@@ -48,7 +48,7 @@ This is a visual problem with the environment and does not affect the logic or o
 
 ## AUTHORS
 
-This project originated as a collaborative effort between my teammates and me, developed as part of the Data Analyst Bootcamp at Adalab. Since then, I have dedicated significant effort to transforming both the code and documentation, elevating the project to a more advanced and professional level.
+This project originated as a collaborative effort between my colleagues and me, developed as part of the Data Analyst Bootcamp at Adalab. Since then, I have dedicated significant effort to transforming both the code and documentation, elevating the project to a more advanced and professional level.
 
 ### My Contributions:
 #### Code Optimization:
