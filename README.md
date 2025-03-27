@@ -1,5 +1,5 @@
 <h1 align="center" id="title"> Star Wars Hangman </h1>
-<h2 align="center" id="title"> Interstellar Programming and Fun </h2>
+<h2 align="center" id="title"> Interstellar programming and entertainment </h2>
 
 
 
