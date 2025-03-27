@@ -47,10 +47,30 @@ This is a visual problem with the environment and does not affect the logic or o
 
 
 ## Authors
-This project is developed by female authors:
 
-- Belén Vargas Navarro
-[@BelenVN] (https://github.com/BelenVN)
+This project originated as a collaborative effort between my teammates and me, developed as part of the Data Analyst Bootcamp at Adalab. Since then, I have dedicated significant effort to transforming both the code and documentation, elevating the project to a more advanced and professional level.
+
+### My Contributions:
+### Code Optimization:
+
+- Completely restructured the program, organizing it into well-defined functions to improve clarity, flow, and maintainability.
+- Implemented precise input validations to ensure a smooth and user-friendly gaming experience.
+
+### Enhanced Interactivity:
+
+- Integrated thematic messages in Yoda's style, enriching the immersive experience within the Star Wars universe.
+- Translated the original code into English, making it accessible to a global audience and aligning it with international standards.
+
+### Documentation Revamp:
+
+- Crafted a brand-new README featuring an interactive table of contents for seamless navigation.
+- Rewrote the introduction and presentation, highlighting the project's purpose and professional design.
+- Added detailed sections such as Requirements and Instructions to guide users effectively.
+
+### Acknowledgment:
+
+This project originated as a collaborative effort were developed alongside my talented colleagues:
+
 - Nerea Rial Conde
 [@nerearial] (https://github.com/nerearial)
 - Luz Marina Hernández García
@@ -60,8 +80,8 @@ This project is developed by female authors:
 - Carmen Gómez Zamora
 [@cgomezza] (https://github.com/cgomezza)
 
+I am grateful for the shared work that laid the groundwork!
 
+This version reflects the significant changes and improvements I have introduced. These include a complete restructuring of the code, professionalization of the documentation, enhanced interactivity, and translation to make the project accessible to a global audience.
 
-
-
-
+This README and the revamped version of the code demonstrate my dedication to refining and elevating the project, taking the initial idea and developing it to its full potential.
