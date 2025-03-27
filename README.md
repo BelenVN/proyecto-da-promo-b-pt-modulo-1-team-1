@@ -46,28 +46,28 @@ In some runtime environments, it may happen that the program does not register u
 This is a visual problem with the environment and does not affect the logic or operation of the code. If you experience this behavior, simply press Enter again without re-entering the letter.
 
 
-## Authors
+## AUTHORS
 
 This project originated as a collaborative effort between my teammates and me, developed as part of the Data Analyst Bootcamp at Adalab. Since then, I have dedicated significant effort to transforming both the code and documentation, elevating the project to a more advanced and professional level.
 
 ### My Contributions:
-### Code Optimization:
+#### Code Optimization:
 
 - Completely restructured the program, organizing it into well-defined functions to improve clarity, flow, and maintainability.
 - Implemented precise input validations to ensure a smooth and user-friendly gaming experience.
 
-### Enhanced Interactivity:
+#### Enhanced Interactivity:
 
 - Integrated thematic messages in Yoda's style, enriching the immersive experience within the Star Wars universe.
 - Translated the original code into English, making it accessible to a global audience and aligning it with international standards.
 
-### Documentation Revamp:
+#### Documentation Revamp:
 
 - Crafted a brand-new README featuring an interactive table of contents for seamless navigation.
 - Rewrote the introduction and presentation, highlighting the project's purpose and professional design.
 - Added detailed sections such as Requirements and Instructions to guide users effectively.
 
-### Acknowledgment:
+#### Acknowledgment:
 
 This project originated as a collaborative effort were developed alongside my talented colleagues:
 
